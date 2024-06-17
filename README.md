@@ -14,4 +14,6 @@ tutorial about github
 - 在GitHub上配置自己的密钥  
   - `settings` >> `SSH and GPG keys`  >> 创建SSH Key >> 将 xxx.pub 中的密钥粘贴进来
 - 将本地与GitHub关联
-  - 
+
+
+# 怎么通过 SSH  访问GitHub？？？ TODO~！！
